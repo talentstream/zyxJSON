@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\zyxJSON\\zyxJSON\\zyxJSON.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\project\\zyxJSON\\zyxJSON\\zyxJSON\\zyxJSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\zyxJSON\\zyxJSON\\zyxJSON.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\project\\zyxJSON\\zyxJSON\\zyxJSON\\zyxJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\zyxJSON\\zyxJSON\\zyxJSON.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\project\\zyxJSON\\zyxJSON\\zyxJSON\\zyxJSON.csproj",
         "projectName": "zyxJSON",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\zyxJSON\\zyxJSON\\zyxJSON.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\project\\zyxJSON\\zyxJSON\\zyxJSON\\zyxJSON.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\zyxJSON\\zyxJSON\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\project\\zyxJSON\\zyxJSON\\zyxJSON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
